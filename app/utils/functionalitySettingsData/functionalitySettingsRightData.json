@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "title": "Payment Types Counter",
+      "data": [
+        {"title": "Cash", "sequenceNumber": 1, "isSelected": false},
+        {"title": "Cards", "sequenceNumber": 2, "isSelected": false},
+        {"title": "Telesales", "sequenceNumber": 3, "isSelected": false},
+        {"title": "Other", "sequenceNumber": 4, "isSelected": false},
+        {"title": "Training", "sequenceNumber": 5, "isSelected": false}
+      ]
+    },
+    {
+      "title": "Payment Types Tabs",
+      "data": [
+        {"title": "Cash", "sequenceNumber": 1, "isSelected": false},
+        {"title": "Cards", "sequenceNumber": 2, "isSelected": false},
+        {"title": "Other", "sequenceNumber": 3, "isSelected": false}
+      ]
+    }
+  ]
+}

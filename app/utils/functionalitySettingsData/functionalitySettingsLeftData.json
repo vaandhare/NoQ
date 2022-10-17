@@ -1,0 +1,25 @@
+{
+  "data": [
+    {
+      "title": "Terminal Settings",
+      "data": [
+        {"title": "Keypad", "sequenceNumber": 1, "isSelected": false},
+        {"title": "Menu", "sequenceNumber": 2, "isSelected": false},
+        {"title": "Tabs", "sequenceNumber": 3, "isSelected": false},
+        {"title": "Mobile", "sequenceNumber": 4, "isSelected": false}
+      ]
+    },
+    {
+      "title": "Sidebar Settings",
+      "data": [
+        {
+          "title": "Instant Stock Management",
+          "sequenceNumber": 1,
+          "isSelected": false
+        },
+        {"title": "Cash Drawer", "sequenceNumber": 2, "isSelected": false},
+        {"title": "View Reports", "sequenceNumber": 3, "isSelected": false}
+      ]
+    }
+  ]
+}
